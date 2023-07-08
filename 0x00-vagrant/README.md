@@ -1,0 +1,1 @@
+uname command on terminal
